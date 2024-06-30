@@ -1,4 +1,4 @@
-#Real-Time Chat Application 🚀
+##Real-Time Chat Application 🚀
 Welcome to our Real-Time Chat Application project! This repository contains both the backend API and frontend client code, offering a complete full-stack development experience.
 
 #Table of Contents 📋
